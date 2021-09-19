@@ -1,0 +1,16 @@
+.progess-bar{
+    width: 80vw;
+    margin: auto;
+    background-color:black;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 50px;
+}
+
+.completed-so-far{
+    width: 10%;
+    height: 80%;
+    margin: 10px 0px 10px 10px;
+    background-color: green;
+    border-radius: 50px;
+}
